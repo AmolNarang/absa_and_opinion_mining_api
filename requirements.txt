@@ -1,0 +1,19 @@
+gunicorn==20.1.0
+fastapi==0.63.0
+uvicorn==0.13.3
+pymssql==2.1.5
+
+
+
+
+
+
+# requirement model
+
+numpy==1.19.5
+requests==2.21.0
+pandas==1.1.5
+spacy
+contractions==0.1.73
+phonenumbers==8.13.18
+transformers
